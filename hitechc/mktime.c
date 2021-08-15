@@ -33,4 +33,3 @@ time_t mktime(struct tm *ptm){
    seconds += time_zone * SECS_PER_MIN;
    return (time_t)seconds; 
 }
-

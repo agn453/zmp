@@ -1,1 +1,22 @@
-*.as linguist-language=Assembly
+# Default is to keep crlf line endings
+text=auto
+
+LICENSE eol=crlf text
+README.md eol=crlf text
+*.as eol=crlf linguist-language=Assembly
+*.c eol=crlf linguist-language=C
+*.cfg eol=crlf text
+*.cmd eol=crlf text
+*.com binary
+*.doc eol=crlf text
+*.fon eol=crlf text
+*.for eol=crlf text
+*.h eol=crlf linguist-language=C
+*.hlp eol=crlf text
+*.lib binary
+*.lnk eol=crlf text
+*.new eol=crlf text
+*.obj binary
+*.ovr binary
+*.upd eol=crlf text
+*.z80 eol=crlf linguist-language=Assembly

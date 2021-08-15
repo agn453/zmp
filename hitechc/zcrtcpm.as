@@ -50,4 +50,3 @@ start2:	ld	hl,(6)		;base address of fdos
 	psect	data
 nularg:	defb	0
 	end	start
-

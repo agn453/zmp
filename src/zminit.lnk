@@ -1,3 +1,2 @@
 -c40d2h -ptext=40d2h,data -ozminit.ovr -mzminit.map zminit.obj main.obj \
 a:libx.lib a:libc.lib
-

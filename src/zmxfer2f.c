@@ -49,6 +49,3 @@ int getnak()
 }
 
 /************************** END OF MODULE 7 *********************************/
-
-;	      /* Spacing between zcrcq requests */
-unsigned Txwcnt;	      /*

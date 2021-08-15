@@ -30,4 +30,3 @@ extern time_t mktime(struct tm *);
 #define SECS_PER_DAY (86400l)
 #define SECS_PER_HOUR (3600l)
 #define SECS_PER_MIN (60l)
-

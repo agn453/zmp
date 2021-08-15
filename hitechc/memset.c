@@ -6,4 +6,3 @@ unsigned n;
 	while(n--)
 		*p++ = c;
 }
-

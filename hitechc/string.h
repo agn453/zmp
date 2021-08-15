@@ -34,4 +34,3 @@ extern char *	strerror(int);
 extern size_t	strlen(char *);
 extern char *	strchr(char *, int);
 extern char *	strrchr(char *, int);
-

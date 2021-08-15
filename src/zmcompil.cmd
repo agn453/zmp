@@ -7,4 +7,3 @@ REN ZMPX.COM=USERDEF.COM
 SYMTOAS ZMP
 ZAS MAIN.AS
 FIND+ ZMP.SYM [USERDEF|OVBGN]
-

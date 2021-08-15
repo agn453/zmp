@@ -1,3 +1,2 @@
 -c40d2h -ptext=40d2h,data -ozmconfig.ovr -mzmconfig.map zmconfig.obj \
 zmconf2.obj zmconf3.obj zmconf4.obj main.obj a:libx.lib a:libc.lib
-

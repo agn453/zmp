@@ -10,4 +10,3 @@ void rlabel() /*print receive mode labels on the 25th line*/
 }
 
 /************************** END OF MODULE 5 *********************************/
-

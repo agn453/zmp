@@ -23,4 +23,3 @@ extern	unsigned char	_ctype_[];	/* in libc.lib */
 #define toupper(c)	(islower(c) ? ((c)-'a'+'A') : (c))
 #define tolower(c)	(isupper(c) ? ((c)-'A'+'a') : (c))
 #define toascii(c)	((c)&0x7F)
-

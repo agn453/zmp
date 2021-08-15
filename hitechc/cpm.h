@@ -112,4 +112,3 @@ extern uchar		setfcb(struct fcb *, char *);
 #define CPMGZSD 48		/* get ZSDOS indicator */
 #define CPMGSTP 102		/* get file date stamp */
 #define CPMSSTP 103		/* set file date stamp */
-
